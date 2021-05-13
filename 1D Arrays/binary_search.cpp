@@ -42,6 +42,8 @@ main()
     {
         cin >> a[i];
     }
+    
+    // array must be sorted
 
     int key;
 
